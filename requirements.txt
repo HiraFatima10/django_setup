@@ -1,0 +1,10 @@
+Django>=3.2.4,<3.3
+flake8>=3.9.2,<3.10
+psycopg2>=2.8.6,<2.9
+drf-spectacular>=0.15.1,<0.16
+djangorestframework==3.13.1
+django-phonenumber-field==7.3.0
+django-phonenumbers==1.0.1
+djangorestframework-simplejwt==5.2.2
+django-cors-headers==4.3.1
+drf-extra-fields==3.7.0
