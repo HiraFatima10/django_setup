@@ -30,3 +30,11 @@ Ensure you have the following installed:
 
    ```bash
    django-admin startproject <your_project_name>
+Or use an existing Django project.
+
+2. **Copy Configuration Files:**
+Place the following files in your project directory:
+
+- docker-compose.yml
+- Dockerfile
+- requirements.txt
